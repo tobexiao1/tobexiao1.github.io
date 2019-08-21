@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiao Zhang"
+title                    : "Xiao Zhang (张啸)"
 title_separator          : "-"
-name                     : &name "Xiao Zhang"
+name                     : &name "Xiao Zhang (张啸)"
 description              : &description "Assistant Professor, School of Computer Science and Technology, Shandong University"
 url                      : https://xiaozhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiao Zhang"
+  name             : "Xiao Zhang (张啸)"
   avatar           : "Xiao.jpg"
   bio              : "Assistant Professor, School of Computer Science and Technology, Shandong University"
   location         : "Qingdao, China"
