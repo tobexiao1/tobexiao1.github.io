@@ -38,7 +38,7 @@ redirect_from:
 <b>Xiao Zhang</b>, Wenzhong Li, and Sanglu Lu. 
 <i>the 22rd International Conference on Database Systems for Advanced Applications (DASFAA 2017)</i>. <b>(CCF-B)</b>.
 
-* [Full Publication List...](http://localhost:4000/publications/)
+* [Full Publication List...](/publications/)
 
 
 
