@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+School of Computer Science and Technology, Shandong University<br>
+No. 72 Binhai Road, Qingdao, Shandong, China 266237.<br>
+Email: xiaozhang [at] sdu.edu.cn, tobexiao1 [at] gmail.com
 
