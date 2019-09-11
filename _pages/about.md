@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
-* I am an Assistant Professor in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/) at [Shandong University](http://www.sdu.edu.cn/). I received my Ph.D. degree from Nanjing University in 2019 under the supervision of Prof. [Sanglu Lu](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and Prof. [Wenzhong Li](https://cs.nju.edu.cn/lwz/), and received my BE degree from Central South University in 2013. 
+* I am an Assistant Professor in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/) at [Shandong University](http://www.sdu.edu.cn/). I received my Ph.D. degree from Nanjing University in 2019 under the supervision of Prof. [Sanglu Lu](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and Prof. [Wenzhong Li](https://cs.nju.edu.cn/lwz/), and received my BE degree from Central South University in 2013.  
 
 <b>Student recruitment:</b> We are looking for well motivated Master students who are interested in the big data mining, machine learning,  emotion recognition, and social network analysis. Please contact us by email: xiaozhang#sdu.edu.cn.
 
@@ -21,6 +21,9 @@ redirect_from:
 * Passive Sensing
 * Machine learning: multi-task learning, multi-label learning, etc. 
 
+# News
+*2019/07: I serve as a PC member for AAAI-20!
+*2019/07: Our one paper was accepted ACM MM !
 
 # Selected Publications
 <b>[Inferring mood instability via smartphone sensing: a multi-view learning approach.]()</b> <br> 
