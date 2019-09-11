@@ -22,8 +22,8 @@ redirect_from:
 * Machine learning: multi-task learning, multi-label learning, etc. 
 
 # News
-*2019/07: I serve as a PC member for AAAI-20!
-*2019/07: Our one paper was accepted ACM MM !
+* 2019/07: I serve as a PC member for AAAI-20!
+* 2019/07: Our one paper was accepted ACM MM !
 
 # Selected Publications
 <b>[Inferring mood instability via smartphone sensing: a multi-view learning approach.]()</b> <br> 
