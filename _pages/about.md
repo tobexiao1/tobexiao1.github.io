@@ -14,7 +14,7 @@ redirect_from:
 
 * I am an Assistant Professor in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/) at [Shandong University](http://www.sdu.edu.cn/). I received my Ph.D. degree from Nanjing University in 2019 under the supervision of Prof. [Sanglu Lu](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and Prof. [Wenzhong Li](https://cs.nju.edu.cn/lwz/), and received my BE degree from Central South University in 2013.  From 2015/06-2015/08 and 2017/10-2018/10, I visited George-August-University of Goettingen and Rutgers, the State University of New Jersey, respectively.
 
-<b>Student recruitment:</b> We are looking for well motivated Master students who are interested in the big data mining, machine learning,  emotion recognition, and social network analysis. Please contact us by email: xiaozhang#sdu.edu.cn.
+<b>Student recruitment:</b> We are looking for well motivated Master students who are interested in the big data mining, machine learning,  emotion recognition, and social network analysis. Please contact us by email: xiaozhang@sdu.edu.cn.
 
 # Research Interests
 * Data mining: smartphone Data, online social network data, etc.
